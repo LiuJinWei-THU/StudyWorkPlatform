@@ -1,0 +1,13 @@
+# Personal data must stay outside the public repository
+*.json
+*.pdf
+*.ppt
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.zip
+qa/
+backups/
+.DS_Store
